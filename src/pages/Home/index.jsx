@@ -19,7 +19,7 @@ export default function Home() {
     return (
         <div className='home-container'>
             <h1>Task List</h1>
-            <span>Manage your calendar made easy</span>
+            <span>Managing your calendar made easy</span>
 
             <form className='login-form' onSubmit={handleLogin}>
                 <input
